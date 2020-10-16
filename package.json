@@ -1,0 +1,17 @@
+{
+  "name": "triad-bots-ftop-bot",
+  "version": "1.0.0",
+  "description": "FTop Bot - Displays FTop in Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BestBearr",
+  "license": "MIT",
+  "dependencies": {
+    "comma-number": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "mineflayer": "^2.9.6",
+    "node-cron": "^2.0.3"
+  }
+}

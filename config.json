@@ -1,0 +1,15 @@
+{
+    "prefix":"-",
+    "DiscordServerID":"Your Discord server ID here! (The bot only works in this server)",
+    "DiscordBotToken":"Your Discord Bot Token from https://discordapp.com/developers",
+    "AutoFTopChannelID":"The channel ID to send the automatic FTop update to",
+    "AutoFTopEnabled":true,
+    "serverIP":"play.vanitymc.co",
+    "serverPort":25565,
+    "altEmail":"Your alt EMail",
+    "altPassword":"Your alt Password",
+    "altVersion":"1.8",
+    "joinCMD":"/heroic",
+    "ftopCMD":"/f top [num]",
+    "autoFTopTimeRange":"0,30"
+}
